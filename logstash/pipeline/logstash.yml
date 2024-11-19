@@ -7,8 +7,7 @@ input {
     port => 50000
     }
 }
-    
-    ## Add your filters / logstash plugins configuration here
+
     
 output {
     elasticsearch {
